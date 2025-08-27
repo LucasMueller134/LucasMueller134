@@ -32,14 +32,15 @@
 
 ---
 
-### 📈 Minhas estatísticas
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/main/profile-summary-card-output/dracula/0-profile-details.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/main/profile-summary-card-output/dracula/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
-</p>
+<div>
+  <a href="https://github.com/LucasMueller134">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMueller134&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMueller134&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+![Github Calendar](https://github-readme-activity-graph.vercel.app/graph?username=LucasMueller134&theme=github-dark&hide_border=true)
 
 ---
 
