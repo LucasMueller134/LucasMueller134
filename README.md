@@ -24,6 +24,10 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Shell" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img align="center" alt="PHP" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="MySQL" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQLite" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Java" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
 
