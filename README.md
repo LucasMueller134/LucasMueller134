@@ -43,13 +43,10 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucasMueller134&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LucasMueller134&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-![Github Calendar](https://github-readme-activity-graph.vercel.app/graph?username=LucasMueller134&theme=github-dark&hide_border=true)
-
----
 📫 **Contato:**  
 <a href = "mailto:lucas134cell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 <a href="https://www.linkedin.com/in/lucas-mueller-ab1b1624a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
