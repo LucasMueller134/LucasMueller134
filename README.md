@@ -10,7 +10,6 @@
 - Criação de ferramentas robustas para facilitar o trabalho da equipe de TI e reduzir falhas manuais.  
 
 <p align="left">
-  <img alt="Visitantes" src="https://komarev.com/ghpvc/?username=LucasMueller134&style=for-the-badge">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-Debian-informational?style=for-the-badge&logo=debian">
 </p>
 
@@ -33,17 +32,14 @@
 
 ---
 
-## 📊 Estatísticas
-<div>
-  <a href="https://github.com/LucasMueller134">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasMueller134&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMueller134&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
-![Minhas métricas](./metrics.svg)
+### 📈 Minhas estatísticas
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/main/profile-summary-card-output/dracula/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
+</p>
 
 ---
 
