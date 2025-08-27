@@ -43,7 +43,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LucasMueller134&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+![Minhas métricas](./metrics.svg)
 
 ---
 
