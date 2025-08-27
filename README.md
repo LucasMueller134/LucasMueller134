@@ -29,4 +29,4 @@
 
 📫 **Contato:**  
 - ✉️ lucas134cell@gmail.com 
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/lucas-mueller-ab1b1624a))
+- 💼 [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/lucas-mueller-ab1b1624a)
