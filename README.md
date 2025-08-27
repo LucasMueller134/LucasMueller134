@@ -36,15 +36,10 @@
 ## 📊 Estatísticas
 <div>
   <a href="https://github.com/LucasMueller134">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasMueller134&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://SEU-APP.vercel.app/api?username=LucasMueller134&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMueller134&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMueller134&theme=dracula&hide_border=true&area=true" alt="activity-graph">
-</p>
 
 ---
 
