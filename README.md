@@ -13,6 +13,7 @@
 <div>
   <a href="https://github.com/LucasMueller134">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMueller134&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMueller134&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -28,5 +29,5 @@
 ---
 
 📫 **Contato:**  
-- ✉️ lucas134cell@gmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/lucas-mueller-ab1b1624a)
+<a href = "lucas134cell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-mueller-ab1b1624a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
