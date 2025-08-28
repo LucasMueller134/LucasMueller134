@@ -40,7 +40,9 @@
 
 ---
 
-![Github Calendar](https://github-readme-activity-graph.vercel.app/graph?username=LucasMueller134&theme=github-dark&hide_border=true)
+### 🎮 Jogue com meus commits
+[![Pac-Man Commits](https://img.shields.io/badge/Pac--Man-Commits-yellow?logo=github)](https://pacman-on-github-commits.vercel.app/?username=LucasMueller134)
+
 
 ---
 
