@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=70&lines=DevOps+%26+Automação+de+Infraestrutura;Python%2C+Go%2C+Shell+%26+Debian;Gerenciamento+de+Redes+%26+Hardware)](https://git.io/typing-svg)
 
+<br>
+
 💻 **Desenvolvedor de Soluções de Automação e Infraestrutura** na Prefeitura de Jaraguá do Sul.
 
 Meu foco é eliminar tarefas manuais repetitivas e criar ecossistemas Linux robustos. Transformo a administração de sistemas através de código, garantindo que o parque tecnológico esteja sempre atualizado e monitorado.
