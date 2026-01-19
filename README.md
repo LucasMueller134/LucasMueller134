@@ -1,19 +1,22 @@
 # 👋 Olá, eu sou o Lucas Mueller
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&pause=1000&center=true&width=700&lines=Automação+%26+Infraestrutura;Python%2C+Go%2C+JavaScript+%26+Debian;Redes+%26+Hardware;Monitoramento+em+Tempo+Real)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&pause=1000&center=true&width=700&lines=Automação+%26+Infraestrutura;Python%2C+Go+%26+Debian;Redes+%26+Hardware)](https://git.io/typing-svg)
 <br>
 
 💻 **Desenvolvedor de Soluções de Automação e Infraestrutura** na Prefeitura de Jaraguá do Sul.
 
 Meu foco é eliminar tarefas manuais repetitivas e criar ecossistemas Linux robustos. Transformo a administração de sistemas através de código, garantindo que o parque tecnológico esteja sempre atualizado e monitorado.
 
-### 🏛️ Principais Projetos e Impacto
-Na gestão do parque tecnológico municipal, desenvolvo ferramentas críticas para a equipe de TI:
+## 🛠️ Stack Tecnológica
 
-* **🔄 Orquestração de Atualizações em Massa:** Desenvolvimento de agentes em **Python** que leem faixas de IP (subnets), verificam versões (ex: `/etc/pmjs/ver`) e aplicam patches de segurança ou migrações de SO (como a transição para **Debian 13**) sem intervenção humana.
-* **📡 Diagnóstico de Rede e Hardware:** Criação de scripts que interagem com switches via **LLDP** para mapeamento de portas físicas e coleta automatizada de dados de hardware (versão de BIOS, fabricante, modelo) para inventário centralizado.
-* **🖥️ Interfaces de Suporte (GUI):** Desenvolvimento de aplicações desktop com **Python/GTK** (System Tray) para fornecer informações rápidas ao usuário e facilitar o suporte técnico remoto.
-* **🔐 Segurança e Autenticação:** Integração de estações de trabalho com Kerberos, LDAP e soluções bancárias (Warsaw), garantindo conformidade e segurança.
+- **Backend:** Python, Go
+- **Frontend:** JavaScript, HTML5, CSS3
+- **Infraestrutura:** Debian Linux, MariaDB
+- **Redes:** LLDP, Protocolos de Monitoramento
+
+## 🏛️ Principais Projetos e Impacto
+
+Na gestão do parque tecnológico municipal, desenvolvo ferramentas críticas para a equipe de TI:
 
 ---
 
