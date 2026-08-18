@@ -66,14 +66,6 @@ Meu foco é eliminar tarefas manuais repetitivas e construir ecossistemas Linux 
 
 ---
 
-## Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasMueller134&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMueller134&layout=compact&langs_count=8&theme=default&hide_border=true" />
-</p>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/output/snake-dark.svg">
