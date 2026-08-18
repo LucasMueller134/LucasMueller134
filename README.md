@@ -1,56 +1,79 @@
 # 👋 Olá, eu sou o Lucas Mueller
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&pause=1000&center=true&width=700&lines=Automação+%26+Infraestrutura;Python%2C+Go%2C+JavaScript+%26+Debian;Redes+%26+Hardware;Monitoramento+em+Tempo+Real)](https://git.io/typing-svg)
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Automa%C3%A7%C3%A3o+%26+Infraestrutura;Python%2C+Go%2C+Dart+%26+Debian;Redes%2C+SSH+%26+Monitoramento;Transformando+processos+manuais+em+c%C3%B3digo)](https://git.io/typing-svg)
 
-💻 **Desenvolvedor de Soluções de Automação e Infraestrutura** na Prefeitura de Jaraguá do Sul.
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=LucasMueller134&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
 
-Meu foco é eliminar tarefas manuais repetitivas e criar ecossistemas Linux robustos. Transformo a administração de sistemas através de código, garantindo que o parque tecnológico esteja sempre atualizado e monitorado.
+💻 **Desenvolvedor de Automação e Infraestrutura** na Prefeitura de Jaraguá do Sul.
+
+Meu foco é **eliminar tarefas manuais repetitivas** e construir ecossistemas Linux robustos. Transformo a administração de sistemas em código — garantindo um parque tecnológico sempre atualizado, monitorado e auditável.
+
+- 🔧 Automatizo patching e inventário de frotas Debian
+- 📡 Trabalho com SSH, SNMP, LLDP e monitoramento em tempo real
+- 📱 Também desenvolvo apps com Flutter + IA on-device
+- 🎓 Eng. de Software — CatólicaSC
+
+<div align="left">
+  <a href="mailto:lucas134cell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-mueller-ab1b1624a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=LucasMueller134&style=flat-square&color=blueviolet&label=Perfil+visto" />
+</div>
+
+<br clear="right"/>
+
+---
 
 ## 🛠️ Stack Tecnológica
 
-- **Backend:** Python, Go
-- **Frontend:** JavaScript, HTML5, CSS3
-- **Infraestrutura:** Debian Linux, MariaDB
-- **Redes:** LLDP, Protocolos de Monitoramento
-
-## 🏛️ Principais Projetos e Impacto
-
-Na gestão do parque tecnológico municipal, desenvolvo ferramentas críticas para a equipe de TI:
-
----
-
-### 🛠️ Tech Stack
-
 <div align="center">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Shell" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-  
-  <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img align="center" alt="MariaDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-</div>
-
-<br>
-
-<div align="center">
-  <img alt="Linux Debian" src="https://img.shields.io/badge/Linux-Debian_13-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-  <img alt="Infra Code" src="https://img.shields.io/badge/Infra-Automation-0052CC?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;
+  <img alt="Go" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">&nbsp;&nbsp;
+  <img alt="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">&nbsp;&nbsp;
+  <img alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">&nbsp;&nbsp;
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
+  <img alt="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">&nbsp;&nbsp;
+  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">&nbsp;&nbsp;
+  <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;
+  <img alt="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">&nbsp;&nbsp;
+  <img alt="MariaDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">&nbsp;&nbsp;
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&nbsp;&nbsp;
+  <img alt="SQLite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">&nbsp;&nbsp;
+  <img alt="Debian" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">&nbsp;&nbsp;
+  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
 ---
 
+## 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LucasMueller134/linux-system-updater">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMueller134&repo=linux-system-updater&theme=dracula&hide_border=true" />
+      </a>
+      <p><b>🐧 Patching automatizado de frota Debian.</b> Faz scan da rede via SSH (Paramiko), coleta versões de SO/navegadores, gera relatórios CSV e aplica <code>apt upgrade</code> não-interativo com logs de auditoria.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LucasMueller134/Obrafacil">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMueller134&repo=Obrafacil&theme=dracula&hide_border=true" />
+      </a>
+      <p><b>📱 App de gestão de obras com IA on-device.</b> OCR de notas fiscais, lançamento por voz, previsão de orçamento e relatórios semanais gerados por IA. Flutter + Firebase + TensorFlow Lite, offline-first.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estatísticas
+
 <div align="center">
-  <a href="https://github.com/LucasMueller134">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasMueller134&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMueller134&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
-  </a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMueller134&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMueller134&theme=dracula&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LucasMueller134&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -66,7 +89,5 @@ Na gestão do parque tecnológico municipal, desenvolvo ferramentas críticas pa
 ---
 
 <div align="center">
-  📫 **Contato:**&nbsp;&nbsp;
-  <a href = "mailto:lucas134cell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lucas-mueller-ab1b1624a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
+  <i>⚡ "Se é repetitivo, deve ser código." </i>
 </div>
