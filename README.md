@@ -111,12 +111,6 @@ Atualiza um **parque inteiro de máquinas Debian via SSH**, monta inventário de
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasMueller134&theme=dracula" alt="Estatísticas gerais" />
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasMueller134&theme=dracula&utcOffset=-3" alt="Horários mais produtivos" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=LucasMueller134&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições" />
-
-</div>
-
 ---
 
 <div align="center">
