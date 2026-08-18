@@ -10,15 +10,6 @@
 
 </div>
 
----
-
-## 🎯 Sobre
-
-Trabalho com **automação e infraestrutura Linux** na Prefeitura de Jaraguá do Sul, onde meu foco é simples: **toda tarefa manual repetitiva é um bug de processo esperando virar script.**
-
-Meu dia a dia é manter um parque de máquinas Debian atualizado, inventariado e monitorado — sem depender de alguém sentar em cada estação. Para isso escrevo ferramentas em Python que conversam com a rede via SSH e SNMP, geram relatórios auditáveis e entregam para a equipe de TI a visibilidade que antes só existia em planilha preenchida na mão.
-
-Fora do trabalho, estou concluindo **Engenharia de Software** e construindo o ObraFácil — um app Flutter que roda **IA direto no dispositivo**, sem nuvem, porque canteiro de obra costuma ser exatamente onde a internet não chega.
 
 ```yaml
 localizacao:  Jaraguá do Sul, SC — Brasil
@@ -59,58 +50,6 @@ Atualiza um **parque inteiro de máquinas Debian via SSH**, monta inventário de
 </tr>
 </table>
 
-### 🏗️ ObraFácil — gestão de obras com IA offline
-
-> **TCC · Engenharia de Software · CatólicaSC**
-
-Aplicativo Android para pequenas e médias construtoras trocarem o controle informal — bloco de notas, WhatsApp e memória — por um registro auditável de custos, com fluxo de aprovação entre **mestre de obra** (lança) e **gestor** (aprova).
-
-O diferencial técnico é a **IA rodando 100% no dispositivo**: sem latência, sem custo por requisição e, principalmente, **funcionando sem sinal** — que é a realidade do canteiro.
-
-| O que faz | Como |
-|---|---|
-| 📄 Lê nota fiscal por foto | OCR via Google ML Kit, on-device |
-| 🧱 Reconhece materiais | Image labeling, on-device |
-| 🎤 Lança custo por voz | `speech_to_text` + parser próprio de números por extenso |
-| 📈 Prevê estouro de orçamento | Regressão local sobre o histórico da obra |
-| 📸 Estima progresso da obra | Análise comparativa de imagens |
-| 📊 Gera relatório semanal | Sumarização automática dos lançamentos |
-
-<div align="center">
-
-`Flutter` · `Firebase` · `ML Kit` · `Provider` · `go_router` · `fl_chart`
-
-**75** arquivos Dart &nbsp;•&nbsp; **~14.4k** linhas &nbsp;•&nbsp; **98** testes passando &nbsp;•&nbsp; **11** serviços de IA &nbsp;•&nbsp; **CI** com build de APK
-
-</div>
-
-Arquitetura **offline-first**: a persistência do Firestore garante que o app opere sem rede e sincronize sozinho quando o sinal volta. As rotinas de background (`workmanager`) checam aprovações pendentes e alertas de estoque mesmo com o app fechado.
-
-<br>
-
-### 🐧 linux-system-updater — automação de parque Debian
-
-> ⚠️ Versão de demonstração — o sistema em produção é confidencial
-
-Dupla de ferramentas em Python que elimina o trabalho de atualizar máquina por máquina:
-
-**`Computadores.py`** — varre a rede, identifica as máquinas Linux acessíveis via SSH e monta um inventário de versões (Debian, Chrome/Chromium, Firefox ESR), exportando em **CSV e TXT**. Também distribui e executa o payload de atualização remotamente.
-
-**`Atualizador.py`** — executa `apt update`, `upgrade` e `dist-upgrade` em modo não-interativo, com **tratamento de erro** para as falhas clássicas do apt e **log detalhado para auditoria**.
-
-<div align="center">
-
-`Python 3` · `Paramiko/SSH` · `Debian` · `Credenciais via env vars`
-
-</div>
-
-Todo dado sensível — usuário, senha, IPs internos, caminhos — foi removido e substituído por variáveis de ambiente (`SSH_USER`, `SSH_PASS`, `TARGET_IPS`), justamente para o repositório público não expor a topologia da infraestrutura real.
-
-<br>
-
-### 🌐 Sistema-n3 — full-stack acadêmico
-
-Aplicação dividida em `backend` (Java + Maven) e `frontend` (JavaScript, HTML, CSS), feita para exercitar a separação entre API e cliente.
 
 ---
 
@@ -206,8 +145,3 @@ Aplicação dividida em `backend` (Java + Maven) e `frontend` (JavaScript, HTML,
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<br><br>
-
-<i>"Se eu fiz duas vezes na mão, na terceira vira código."</i>
-
-</div>
