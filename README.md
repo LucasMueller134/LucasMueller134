@@ -1,74 +1,72 @@
-<h1 align="center">Lucas Mueller</h1>
+# 👋 Olá, eu sou o Lucas Mueller
+![Typing SVG (→ readme-typing-svg.herokuapp.com)](https://git.io/typing-svg)
 
-<p align="center">
-  Desenvolvedor de Automação e Infraestrutura
-</p>
+<br>
 
-<p align="center">
-  <a href="mailto:lucas134cell@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucas-mueller-ab1b1624a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+💻 **Desenvolvedor de Soluções de Automação e Infraestrutura** na Prefeitura de Jaraguá do Sul.
 
----
+Meu foco é eliminar tarefas manuais repetitivas e criar ecossistemas Linux robustos. Transformo a administração de sistemas através de código, garantindo que o parque tecnológico esteja sempre atualizado e monitorado.
 
-## Sobre
+## 🛠️ Stack Tecnológica
 
-Meu foco é eliminar tarefas manuais repetitivas e construir ecossistemas Linux robustos, transformando a administração de sistemas em código — com um parque tecnológico sempre atualizado, monitorado e auditável.
+- **Backend:** Python, Go
+- **Frontend:** JavaScript, HTML5, CSS3
+- **Infraestrutura:** Debian Linux, MariaDB
+- **Redes:** LLDP, Protocolos de Monitoramento
 
-- Automação de patching e inventário de frotas Debian
-- SSH, SNMP, LLDP e monitoramento em tempo real
-- Desenvolvimento de apps com Flutter e IA on-device
-- Graduando em Engenharia de Software — CatólicaSC
+## 🏛️ Principais Projetos e Impacto
+
+Na gestão do parque tecnológico municipal, desenvolvo ferramentas críticas para a equipe de TI:
 
 ---
 
-## Stack
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img alt="Python" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="Go" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="Dart" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="Flutter" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="JavaScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="Bash" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="C" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="C++" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</p>
-<p align="center">
-  <img alt="Firebase" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="MariaDB" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="MySQL" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="SQLite" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="Debian" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="Linux" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</p>
+<div align="center">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="Shell" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  
+  <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
----
+  <img align="center" alt="MariaDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+</div>
 
-## Projetos em destaque
+<br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/LucasMueller134/linux-system-updater">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMueller134&repo=linux-system-updater&theme=default&hide_border=true" />
-      </a>
-      <p>Patching automatizado de frota Debian. Faz scan da rede via SSH (Paramiko), coleta versões de SO e navegadores, gera relatórios CSV e aplica atualizações não-interativas com logs de auditoria.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/LucasMueller134/Obrafacil">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMueller134&repo=Obrafacil&theme=default&hide_border=true" />
-      </a>
-      <p>App de gestão de obras com IA on-device: OCR de notas fiscais, lançamento por voz, previsão de orçamento e relatórios semanais. Flutter, Firebase e TensorFlow Lite, com funcionamento offline.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img alt="Linux Debian" src="https://img.shields.io/badge/Linux-Debian_13-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+  <img alt="Infra Code" src="https://img.shields.io/badge/Infra-Automation-0052CC?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</div>
 
 ---
 
+<div align="center">
+  <a href="https://github.com/LucasMueller134">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasMueller134&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMueller134&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
+  </a>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/output/snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/output/snake.svg">
-</picture>
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasMueller134/LucasMueller134/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  📫 **Contato:**&nbsp;&nbsp;
+  <a href = "mailto:lucas134cell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucas-mueller-ab1b1624a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
