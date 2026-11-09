@@ -16,7 +16,6 @@ localizacao:  Jaraguá do Sul, SC — Brasil
 atuacao:      Automação de Infraestrutura & Desenvolvimento
 ambiente:     Debian Linux · Python · SSH · SNMP
 estudando:    Engenharia de Software — CatólicaSC
-principio:    "Se eu fiz duas vezes na mão, na terceira vira código."
 ```
 
 ---
